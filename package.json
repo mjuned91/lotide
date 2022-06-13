@@ -1,0 +1,26 @@
+{
+  "name": "@mjuned91/lotide",
+  "version": "1.0.1",
+  "description": "A smaller and simpler version of the Javascript library called Lodash",
+  "main": "assertArraysEqual.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjuned91/lotide.git"
+  },
+  "author": "Malik M.N. Juned",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjuned91/lotide/issues"
+  },
+  "homepage": "https://github.com/mjuned91/lotide#readme",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
